@@ -27,7 +27,7 @@ int main(void)
 	}
 	else if ( rem < 6 && rem != 0)
 	{
-		printf("and is less than 6 and not 0\n");
+		printf("is less than 6 and not 0\n");
 	}
 	else 
 	{
